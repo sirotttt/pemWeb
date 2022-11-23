@@ -1,0 +1,21 @@
+.body{
+    width: 5rem;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    background-color: aquamarine;
+
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+nav ul li{
+    margin: 0 1rem;
+
+}
